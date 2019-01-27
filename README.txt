@@ -23,4 +23,4 @@ Collaborative final project with Kanyanat Tongprasearth for Modeling and Data An
     
 Fast 2D Ratemapper
 Practice code to recreate the lab's 2D-ratemap figures from raw electrophys data, winter 2015
-  fast2DRMapFunction.m
+    fast2DRMapFunction.m
